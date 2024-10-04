@@ -1,0 +1,17 @@
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\bin\Debug\net8.0\QueryProcessor.deps.json
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\bin\Debug\net8.0\QueryProcessor.dll
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\bin\Debug\net8.0\QueryProcessor.pdb
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\bin\Debug\net8.0\Entities.dll
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\bin\Debug\net8.0\StoreDataManager.dll
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\bin\Debug\net8.0\StoreDataManager.pdb
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\bin\Debug\net8.0\Entities.pdb
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\QueryProcessor.csproj.AssemblyReference.cache
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\QueryProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\QueryProcessor.AssemblyInfoInputs.cache
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\QueryProcessor.AssemblyInfo.cs
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\QueryProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\QueryPro.029F18D7.Up2Date
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\QueryProcessor.dll
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\refint\QueryProcessor.dll
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\QueryProcessor.pdb
+C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\QueryProcessor\obj\Debug\net8.0\ref\QueryProcessor.dll
