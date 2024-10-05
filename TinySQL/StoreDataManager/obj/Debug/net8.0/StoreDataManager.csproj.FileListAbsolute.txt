@@ -13,3 +13,18 @@ C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\Tin
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\StoreDataManager\obj\Debug\net8.0\refint\StoreDataManager.dll
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\StoreDataManager\obj\Debug\net8.0\StoreDataManager.pdb
 C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\StoreDataManager\obj\Debug\net8.0\ref\StoreDataManager.dll
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\bin\Debug\net8.0\StoreDataManager.deps.json
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\bin\Debug\net8.0\StoreDataManager.dll
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\bin\Debug\net8.0\StoreDataManager.pdb
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\bin\Debug\net8.0\Entities.dll
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\bin\Debug\net8.0\Entities.pdb
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\StoreDataManager.csproj.AssemblyReference.cache
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\StoreDataManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\StoreDataManager.AssemblyInfoInputs.cache
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\StoreDataManager.AssemblyInfo.cs
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\StoreDataManager.csproj.CoreCompileInputs.cache
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\StoreDat.463CAB2C.Up2Date
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\StoreDataManager.dll
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\refint\StoreDataManager.dll
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\StoreDataManager.pdb
+C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\StoreDataManager\obj\Debug\net8.0\ref\StoreDataManager.dll

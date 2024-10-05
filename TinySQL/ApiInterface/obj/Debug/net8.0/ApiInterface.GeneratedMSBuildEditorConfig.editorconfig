@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiInterface
-build_property.ProjectDir = C:\Users\Andrés Cordero\Documents\TEC\Datos I\Proyectos\Proyecto II IIS2024\TinySQLDb-main\ApiInterface\
+build_property.ProjectDir = C:\Users\sealc\OneDrive\Escritorio\proyecto-2\TinySQL\ApiInterface\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
