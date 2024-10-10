@@ -8,7 +8,7 @@ Para probar:
 4) Ingresar progresivamente los comandos
    -CREATE DATABASE <NOMBRE>
    -SET DATABASE <NOMBRE>
-   -CREATE TABLE <NombreTabla> (nombreVariable tipoVariable)
+   -CREATE TABLE <NombreTabla> (NombreVariable TipoVariable)
    Con la tabla creada ya se puede trabajar sobre ella:
-   -INSERT INTO <NombreTabla> VALUES (valores que le puso a la tabla')
+   -INSERT INTO <NombreTabla> VALUES (NombreVariable TipoVariable)
    -DROP TABLE <NombreTabla>
