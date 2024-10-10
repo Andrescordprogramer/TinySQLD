@@ -10,5 +10,5 @@ Para probar:
    -SET DATABASE <NOMBRE>
    -CREATE TABLE <NombreTabla> (nombreVariable tipoVariable)
    Con la tabla creada ya se puede trabajar sobre ella:
-   -INSERT INTO <nombreTabla> VALUES (valores que le puso a la tabla')
+   -INSERT INTO <NombreTabla> VALUES (valores que le puso a la tabla')
    -DROP TABLE <NombreTabla>
